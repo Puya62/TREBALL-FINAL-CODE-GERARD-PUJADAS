@@ -1,0 +1,26 @@
+
+/* BODY2 */
+.group2{
+  padding: 20px 20px 20px 20px;
+  display:flex;
+}
+.group22{
+  width:60%;
+}
+.general{
+  flex-wrap: nowrap;
+  margin-top: 5%;
+  display:flex;
+  }
+.color{
+  display: flex;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.imatge{
+  margin-left:10%;
+}
+.letra{
+  margin-bottom: 15px;
+  font-size: 17px;
+}

@@ -1,0 +1,19 @@
+/* CABEZERA */
+.logo{
+  position: absolute;
+  top:5px;
+  left:5%;
+}
+.menu{
+  position: absolute;
+  top: 5px;
+  right: 40%;
+}
+.tienda{
+  position: absolute;
+  right: 100px;
+  top: 5px;
+}
+.desplegable {
+  display: none; 
+}

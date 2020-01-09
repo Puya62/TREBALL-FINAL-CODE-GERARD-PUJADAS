@@ -1,0 +1,20 @@
+/* BODY3 */
+.grupo3{
+  padding: 20px 20px 20px 20px;
+  background-color:  rgb(44, 135, 196);
+ }
+.grupo33{
+  display: flex;
+}
+.esqui1{
+  width: 50%;
+  display: flex;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  flex-wrap:nowrap;  
+}
+.texto{
+  text-align: left;
+  padding: 2% 5% 0% 5%;
+}

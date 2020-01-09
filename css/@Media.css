@@ -1,0 +1,57 @@
+/* VISTA MOBIL */
+
+@media only screen and (max-width: 725px) {
+  h1 {
+    font-weight: 800;
+    font-size: 30px;
+  }
+  .cabezera {
+    display: none;
+   }
+   .tienda{
+     display:none;
+   }
+   .logo{
+     display:none;
+   }
+  .menu {
+    display:none;
+ }
+ .headermovil{
+   display: flex;
+   justify-content: space-between;
+   text-align: center;
+   width:100%;
+    }
+  .grupo11 {
+    width: 100%;
+    padding: 10% 5% 5% 5%;    
+  }
+  .montañas {
+    display: none;
+  }
+  .general {
+    height:250px;
+    width:100%;
+    
+  }
+  .imatge {
+    display:none
+    }
+    .grupo33{
+      display:flex;
+      flex-wrap: wrap;
+     }
+    .esqui1{
+      justify-content: center;
+      width: 100%;
+    }
+    .texto{
+      margin-top: 10%;
+
+    }
+    .fondo{
+      padding: 0% 0% 0% 0%;
+    }
+    }
+
